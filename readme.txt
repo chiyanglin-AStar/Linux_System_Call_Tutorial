@@ -1,17 +1,8 @@
-//  This is CodingCoffee for C/C++ simple hello world gitpod example
+//  This is CodingCoffee for Linux System Programming gitpod examples
 //  more courses : www.codingcoffee.org
 
-gcc ex7-2.c -lm 
-
-g++ ex7-2.cpp 
-
-rm a.out 
-
-ls 
-
-ls *.c 
-
-ls *.cpp
+1.  Timer example 1
+gcc -Wall timer_ex1.c 
 
 git status 
 git add .

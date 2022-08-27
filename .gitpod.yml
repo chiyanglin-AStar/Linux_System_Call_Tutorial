@@ -1,7 +1,7 @@
 # CodingCoffee  C/C++ GitPod Examples more courses : http://www.codingcoffee.org
 tasks:
-  - init: echo 'this is c c++ hello gitpod example' # runs during prebuild
-    command: echo 'build hello.c and hello.cpp' && gcc  hello.c -o a1.out  && g++  hello.cpp -o a2.out
+  - init: echo 'this is Linux System programming gitpod example' # runs during prebuild
+    command: echo ' CodingCoffee System Programming Tutorial '
 
 # CodingCoffee  C/C++ GitPod Examples more courses : http://www.codingcoffee.org
 ports:
