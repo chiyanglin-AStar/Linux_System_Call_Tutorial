@@ -1,3 +1,4 @@
+// ref : https://blog.xuite.net/lidj37/twblog/179517551#
 #include <signal.h>
 #include <unistd.h>
 #include <stdio.h>
